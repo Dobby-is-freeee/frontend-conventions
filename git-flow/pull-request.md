@@ -46,7 +46,7 @@ PR은 협업에 있어 필수적인 과정으로, 코드 리뷰를 통해 각자
 
 - `Release: v1.8.0`
 
-> 버전 관리에 대한 설명은 [version-management]("./version-management.md) 참조.
+> 버전 관리에 대한 설명은 [version-management](./version-management.md) 참조.
 
 
 ## BackMerge PR

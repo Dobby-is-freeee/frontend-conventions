@@ -20,7 +20,7 @@ PR을 병합하는 방식은 기본 설정된 `Create a Merge Commit`으로 시�
 
 하나의 PR 단위는 **500줄을 넘지 않는 것을 원칙**으로 한다.
 
-만약 작업 단위가 커서 500줄을 필연적으로 넘을 것 같다면 [git branch 전략]("./git-branch-strategy.md")에 의거하여 `base`와 `sub` 브랜치를 생성하자.
+만약 작업 단위가 커서 500줄을 필연적으로 넘을 것 같다면 [git branch 전략](./git-branch-strategy.md)에 의거하여 `base`와 `sub` 브랜치를 생성하자.
 
 ## 코멘트에 대하여
 
