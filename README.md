@@ -13,6 +13,6 @@ ProD 웹프론트엔드의 개발 업무 규칙를 모아 놓았습니다. **규
 
 
 ## code style
-- naming
-- event-handler
-- if-else
+- [naming](./code-style/naming.md)
+- [event-handler](./code-style/event-handler.md)
+- [if-else](./code-style/if-else.md)
