@@ -14,7 +14,5 @@ ProD 웹프론트엔드의 개발 업무 규칙를 모아 놓았습니다. **규
 
 ## code style
 - naming
-- handler
+- event-handler
 - if-else
-- variable
-- comment
